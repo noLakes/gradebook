@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tinysoundPC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tinysoundPC\\.nuget\\packages"
+    ]
+  }
+}
